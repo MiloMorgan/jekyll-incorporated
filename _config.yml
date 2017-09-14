@@ -30,7 +30,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://milomorgan.github.io
+url:         https://milomorgan.github.io
 source:      .
 destination: ./_site
 plugins:     ./_plugins
